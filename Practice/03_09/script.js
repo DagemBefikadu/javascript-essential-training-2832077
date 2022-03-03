@@ -25,6 +25,8 @@ const backpack = {
   },
   newVolume: function(val) {
     this.volume = val
+  },
+  newPocketNum: function(num) {
+    this.pocketNum = num
   }
-  
 };
